@@ -124,7 +124,7 @@
 
 * Access Gitlab-CE Web UI
   Open your favourite web browser and type the URL
-  http://your-server-ip or http://your-domain-name.  You should see
+  [[http://your-server-ip]] or [[http://your-domain-name]].  You should see
   the following page in your web browser, where you will be asked to
   create a new password for root.
 
