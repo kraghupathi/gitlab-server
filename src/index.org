@@ -1,6 +1,11 @@
 #+TITLE: Set up Gitlab Server
 #+AUTHOR: VLEAD Systems
-#+DATE: 27-FEB-2018
+#+DATE: [2018-02-27 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
 
 * Introduction
   This document is about the step-by-step process to install GitLab CE
